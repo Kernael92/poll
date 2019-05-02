@@ -1,0 +1,14 @@
+li a {
+    color: black;
+    background-color: antiquewhite;
+    top: 30%;
+}
+
+body {
+    background: white url('images/background.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 2000px 1200px;
+   
+    
+}
